@@ -1,0 +1,2 @@
+# Sopact
+SoPact is a decentralized platform that connects donors with doers by leveraging the celo blockchain and existing networks of service providers including physicians, social workers, and a range of other necessary service providers. SoPact accelerates decentralized access to a comprehensive range of services for people who are homeless or at risk, including those suffering from a substance use disorder.
